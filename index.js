@@ -15,3 +15,9 @@ let youtuber ={
     plan() {},
     uproadvideo() {}
 };
+
+window.console.log();
+
+window.alert();
+
+window.document.getElementById()
