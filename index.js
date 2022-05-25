@@ -1,23 +1,5 @@
-let youtuber ={
-    list: {
-        business: {
-            youtuber [
-                { name: "フワちゃん", age: 29, comedian() {} },
-                { name: "茂木", age: 60, scientist() {}}
-            ],
-            teach() {}
-        },
-        entertainment: {
-            youtuber: [{ name: "ヒカキン" },{ name: "はじめシャチョー" }],
-            makesmile() {}
-        }
-    },
-    plan() {},
-    uproadvideo() {}
-};
+import Youtuber from "./foo"
 
-console.log();
+Youtuber.plan()
 
-alert();
-
-document.getElementById()
+Youtuber.list
